@@ -32,6 +32,15 @@ article {
   margin: 10px;
 }
 
+h1{
+  position: absolute;
+  top: 20%;
+  font-size: 72px;
+  color: #fff;
+  font-family: Oswald, sans-serif;
+  text-align: center;
+}
+
 h2 {
   position: absolute;
   top: 40%;
