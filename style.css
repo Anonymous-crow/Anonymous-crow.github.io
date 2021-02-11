@@ -7,6 +7,16 @@ body {
   background-size: cover;
 }
 
+h1{
+  position: absolute;
+  top: 20%;
+  font-size: 72px;
+  color: #fff;
+  font-family: Oswald, sans-serif;
+  text-align: center;
+}
+
+
 /* The only rule that matters */
 #video-background {
 /*  making the video fullscreen  */
@@ -30,15 +40,6 @@ article {
   bottom: 0;
   border: 10px solid rgba(255, 255, 255, 0.5);
   margin: 10px;
-}
-
-h1{
-  position: absolute;
-  top: 20%;
-  font-size: 72px;
-  color: #fff;
-  font-family: Oswald, sans-serif;
-  text-align: center;
 }
 
 h2 {
