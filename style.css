@@ -50,7 +50,7 @@ article {
 h1{
   position: absolute;
   text-align: center;
-  top: 20%;
+  top: 30%;
   width: 100%;
   font-size: 72px;
   letter-spacing: 3px;
@@ -60,7 +60,7 @@ h1{
 
 h2 {
   position: absolute;
-  top: 40%;
+  top: 50%;
   width: 100%;
   font-size: 36px;
   letter-spacing: 3px;
@@ -71,9 +71,9 @@ h2 {
 
 h2 span {
   font-family: sans-serif;
-  letter-spacing: 0;
+  letter-spacing: 4px;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 32px;
   line-height: 24px;
 }
 
